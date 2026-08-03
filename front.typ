@@ -6,17 +6,23 @@
 #let nb_rows = 2
 #let nb_cols = 5
 
-#let cell_content = ()
+#let cell_list = ()
 #for (attendee) in player_infos{
-  let liste_table = ()
+  let cell_content = ()
   // nom du joueur 
-  liste_table.push(align(center)[#text(white, 2em)[#attendee.name]])
+  cell_content.push(align(center)[#text(white, 2em)[#attendee.name]])
 
   // personnages
   for (c) in attendee.characters{
-    liste_table.push(align(center)[#image("assets/character_icons/"+c+".png", height:100%)])
+    cell_content.push(align(center)[#image("assets/character_icons/"+c+".png", height:100%)])
   }
-  cell_content.push(table(stroke:none, rows:(1fr), columns: (1fr), ..liste_table))
+  cell_list.push(table(
+    stroke:none, 
+    inset:0pt, 
+    rows:(1fr), 
+    columns: (1fr),
+    row-gutter: 5pt, 
+    ..cell_content))
 }
 
 
@@ -25,6 +31,6 @@
   columns: (20%, 20%, 20%, 20%, 20%),
   // stroke: 0.5pt,
   inset: 2em,
-  ..cell_content
+  ..cell_list
   )
 

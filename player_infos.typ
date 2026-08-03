@@ -15,21 +15,21 @@
         characters: (
             "samus",
             "corrin",
-            "random",
+            "boWsEr",
             "placeholder",
             "mii_swordfighter",
             "random"
             )
     ),
     (
-        name: "Kinks",
+        name: "Yuto",
         characters: (
-            "zelda",
-            "isabelle",
-            "pac_man",
-            "placeholder",
-            "mii_gunner",
-            "random"
+            "Roy",
+            "pyra_and_mythra",
+            "cloud",
+            "young_link",
+            "palutena",
+            "mr_game_and_watch"
             )
     ),
     (
@@ -96,6 +96,17 @@
             "placeholder",
             "mii_gunner",
             "random"
+            )
+    ),
+    (
+        name: "Marciffouette",
+        characters: (
+            "isabelle",
+            "ice_climbers",
+            "samus",
+            "random",
+            "incineroar",
+            "pichu"
             )
     ),
     (
