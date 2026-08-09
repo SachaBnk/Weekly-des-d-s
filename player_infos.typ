@@ -33,7 +33,7 @@
             )
     ),
     (
-        name: "Kinks",
+        name: "loooooooooooooooong_test",
         characters: (
             "zelda",
             "isabelle",

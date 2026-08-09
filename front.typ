@@ -14,7 +14,7 @@
 #for (attendee) in player_infos{
   let cell_content = ()
   // nom du joueur 
-  cell_content.push(align(center)[#text(white, 2em)[#attendee.name]])
+  cell_content.push(align(center)[#text(font: "Impact", white, 2em)[#attendee.name]])
 
   // personnages
   for (i) in range(6){
