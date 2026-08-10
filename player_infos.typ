@@ -73,52 +73,63 @@
             "byleth",
             "placeholder",
             "captain_falcon",
-            "zelda"
+            "richter"
             ),
         color: "#FF69B4"
     ),
     (
-        name: "Kinks",
+        name: "Farwax",
         characters: (
-            "zelda",
+            "dr_mario",
+            "simon",
+            "richter",
+            "donkey_kong",
+            "pikachu",
+            "ganondorf"
+            )
+    ),
+    (
+        name: "I",
+        characters: (
+            "bayonetta",
+            "bayonetta",
+            "bayonetta",
+            "bayonetta",
+            "bayonetta",
+            "bayonetta"
+            )
+    ),
+    (
+        name: "Marciffouette",
+        characters: (
             "isabelle",
-            "pac_man",
+            "ice_climbers",
+            "samus",
+            "random",
+            "incineroar",
+            "pichu"
+            )
+    ),
+    (
+        name: "Galgar",
+        characters: (
+            "incineroar",
+            "steve",
+            "little_mac",
+            "dr_mario",
             "mii_brawler",
-            "mii_gunner",
-            "mii_swordfighter"
+            "placeholder"
             )
     ),
     (
-        name: "Kinks",
+        name: "RebelHeart",
         characters: (
-            "zelda",
-            "isabelle",
-            "pac_man",
-            "placeholder",
-            "mii_gunner",
-            "random"
-            )
-    ),
-    (
-        name: "Marciffouette",
-        characters: (
-            "isabelle",
-            "ice_climbers",
-            "samus",
-            "random",
-            "incineroar",
-            "pichu"
-            )
-    ),
-    (
-        name: "Marciffouette",
-        characters: (
-            "isabelle",
-            "ice_climbers",
-            "samus",
-            "random",
-            "incineroar",
-            "pichu"
+            "mewtwo",
+            "mewtwo",
+            "mewtwo",
+            "mewtwo",
+            "mewtwo",
+            "mewtwo"
             )
     ),
 )
