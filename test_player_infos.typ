@@ -1,5 +1,39 @@
 #let player_infos = (
     (
+        name: "Lero",
+        characters: ()
+    ),
+    (
+        name: "Galgar",
+        characters: (
+            "incineroar",
+            "steve",
+            "luigi",
+            "mii_brawler",
+            "donkey_kong",
+            "isabelle"
+        )
+    ),
+    (
+        name: "Thao",
+        characters: ()
+    ),
+    (
+        name: "Lief",
+        characters: ()
+    ),
+    (
+        name: "Monki",
+        characters: (
+            "link",
+            "donkey_kong",
+            "marth",
+            "ganondorf",
+            "jigglypuff",
+            "diddy_kong",
+            )
+    ),
+    (
         name: "Lyvent",
         characters: (
             "sora",
@@ -99,6 +133,27 @@
             )
     ),
     (
+        name: "Kornishon",
+        characters: (
+            "wiifit_trainer",
+            )
+    ),
+    (
+        name: "WejdenePower",
+        characters: (
+            "samus",
+            "donkey_kong",
+            "byleth",
+            "mario",
+            "marth",
+            "palutena"
+            )
+    ),
+    
+
+
+
+    (
         name: "Sexy Girls And Joker",
         characters: (
             "zero_suit_samus",
@@ -109,8 +164,6 @@
             "zelda",
             )
     ),
-
-
     (
         name: "Flowery",
         characters: (
