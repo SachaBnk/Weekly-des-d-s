@@ -5,6 +5,8 @@
 
 #let nb_rows = 2
 #let nb_cols = 5
+#let font_color = white
+
 
 
 
@@ -27,7 +29,7 @@
 
   // on ajoute a la liste
   cell_content.push(align(center)[
-      #text(font: "Impact", white, size: taille)[#attendee.name]
+      #text(font: "Impact", font_color, size: taille)[#attendee.name]
   ])
 
 
