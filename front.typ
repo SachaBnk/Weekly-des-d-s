@@ -1,4 +1,4 @@
-#import "player_infos.typ" : player_infos
+#import "test_player_infos.typ" : player_infos
 #import "@preview/one-liner:0.3.0": fit-to-width, shrink-to-width
 
 #set page(flipped: true, margin:0em)
