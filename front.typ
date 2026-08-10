@@ -31,7 +31,7 @@
   cell_content.push[]
 
   cell_list.push(table(
-    stroke:none, 
+    stroke:0pt, 
     inset:0pt, 
     rows:(1fr), 
     columns: (1fr), 
@@ -44,6 +44,7 @@
 #grid(
   rows: (50%,50%),
   columns: (20%, 20%, 20%, 20%, 20%),
-  // stroke: 0.5pt,
+  stroke: 0.5pt,
   ..cell_list
   )
+
