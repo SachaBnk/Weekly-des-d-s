@@ -23,7 +23,7 @@
   let taille = 2em
   if attendee.name.len() >= 14 {taille = 1.5em}
   if attendee.name.len() >= 19 {taille = 1em}
-  if attendee.name.len() > 35 {panic("pseudo trop long (\""+attendee.name+"\") : plus de 34 caractères")}
+  if attendee.name.len() > 35 {panic("pseudo trop long\n\n>>> \""+attendee.name+"\" \n\n(plus de 34 caractères)")}
 
   // on ajoute a la liste
   cell_content.push(align(center)[
