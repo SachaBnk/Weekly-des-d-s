@@ -68,13 +68,14 @@
     (
         name: "WejdenePower<3",
         characters: (
-            "zelda",
-            "isabelle",
-            "pac_man",
+            "mario",
+            "dr_mario",
+            "byleth",
             "placeholder",
-            "mii_gunner",
-            "random"
-            )
+            "captain_falcon",
+            "zelda"
+            ),
+        color: "#FF69B4"
     ),
     (
         name: "Kinks",
@@ -82,9 +83,9 @@
             "zelda",
             "isabelle",
             "pac_man",
-            "placeholder",
+            "mii_brawler",
             "mii_gunner",
-            "random"
+            "mii_swordfighter"
             )
     ),
     (
