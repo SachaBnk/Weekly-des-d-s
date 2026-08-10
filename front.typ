@@ -13,11 +13,23 @@
 #for (attendee) in player_infos{
   let cell_content = ()
 
+
   // saut de ligne au début
   cell_content.push[]
 
   // nom du joueur 
-  cell_content.push(align(center)[#text(font: "Impact", white, 2em)[#attendee.name]])
+
+  // on décide de la taille de police en fonction de la longueur du pseudo
+  let taille = 2em
+  if attendee.name.len() >= 14 {taille = 1.5em}
+  if attendee.name.len() >= 19 {taille = 1em}
+  if attendee.name.len() > 35 {panic("pseudo trop long (\""+attendee.name+"\") : plus de 35 caractères")}
+
+  // on ajoute a la liste
+  cell_content.push(align(center)[
+      #text(font: "Impact", white, size: taille)[#attendee.name]
+  ])
+
 
   // personnages
   for (i) in range(6){
@@ -40,11 +52,9 @@
 
 
 
-
 #grid(
   rows: (50%,50%),
   columns: (20%, 20%, 20%, 20%, 20%),
   stroke: 0.5pt,
   ..cell_list
   )
-

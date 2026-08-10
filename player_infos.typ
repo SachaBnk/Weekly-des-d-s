@@ -22,6 +22,39 @@
             )
     ),
     (
+        name: "Que Fait Ce C",
+        characters: (
+            "isabelle",
+            "isabelle",
+            "isabelle",
+            "isabelle",
+            "isabelle",
+            "isabelle"
+            )
+    ),
+    (
+        name: "Que Fait Ce Chien ",
+        characters: (
+            "isabelle",
+            "isabelle",
+            "isabelle",
+            "isabelle",
+            "isabelle",
+            "isabelle"
+            )
+    ),
+    (
+        name: "Que Fait Ce Chien Ici ?",
+        characters: (
+            "isabelle",
+            "isabelle",
+            "isabelle",
+            "isabelle",
+            "isabelle",
+            "isabelle"
+            )
+    ),
+    (
         name: "Yuto",
         characters: (
             "Roy",
@@ -33,40 +66,7 @@
             )
     ),
     (
-        name: "loooooooooooooooong_test",
-        characters: (
-            "zelda",
-            "isabelle",
-            "pac_man",
-            "placeholder",
-            "mii_gunner",
-            "random"
-            )
-    ),
-    (
-        name: "Kinks",
-        characters: (
-            "zelda",
-            "isabelle",
-            "pac_man",
-            "placeholder",
-            "mii_gunner",
-            "random"
-            )
-    ),
-    (
-        name: "Kinks",
-        characters: (
-            "zelda",
-            "isabelle",
-            "pac_man",
-            "placeholder",
-            "mii_gunner",
-            "random"
-            )
-    ),
-    (
-        name: "Kinks",
+        name: "WejdenePower<3",
         characters: (
             "zelda",
             "isabelle",
