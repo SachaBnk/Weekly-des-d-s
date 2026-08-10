@@ -33,7 +33,7 @@
             )
     ),
     (
-        name: "Que Fait Ce Chien ",
+        name: "Que Fait Ce Chien Ici ?",
         characters: (
             "isabelle",
             "isabelle",
@@ -44,14 +44,8 @@
             )
     ),
     (
-        name: "Que Fait Ce Chien Ici ?",
+        name: lorem(100),
         characters: (
-            "isabelle",
-            "isabelle",
-            "isabelle",
-            "isabelle",
-            "isabelle",
-            "isabelle"
             )
     ),
     (
@@ -78,7 +72,7 @@
         color: "#FF69B4"
     ),
     (
-        name: "Farwax",
+        name: "",
         characters: (
             "dr_mario",
             "simon",
@@ -92,11 +86,6 @@
         name: "I",
         characters: (
             "bayonetta",
-            "bayonetta",
-            "bayonetta",
-            "bayonetta",
-            "bayonetta",
-            "bayonetta"
             )
     ),
     (
@@ -127,9 +116,6 @@
             "mewtwo",
             "mewtwo",
             "mewtwo",
-            "mewtwo",
-            "mewtwo",
-            "mewtwo"
             )
     ),
 )

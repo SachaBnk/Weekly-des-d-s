@@ -1,4 +1,5 @@
 #import "player_infos.typ" : player_infos
+#import "@preview/one-liner:0.3.0": fit-to-width, shrink-to-width
 
 #set page(flipped: true, margin:0em)
 #set page(background: image("assets/bg.png"), fill:black)
@@ -6,8 +7,6 @@
 #let nb_rows = 2
 #let nb_cols = 5
 #let font_color = white
-
-
 
 
 
@@ -19,26 +18,26 @@
   // saut de ligne au début
   cell_content.push[]
 
-  // nom du joueur 
-
-  // on décide de la taille de police en fonction de la longueur du pseudo (seuils arbitraires trouvés par moi)
-  let taille = 2em
-  if attendee.name.len() >= 14 {taille = 1.5em}
-  if attendee.name.len() >= 19 {taille = 1em}
-  if attendee.name.len() > 35 {panic("pseudo trop long\n\n>>> \""+attendee.name+"\" \n\n(plus de 34 caractères)")}
-
-  // on ajoute a la liste
+  // nom du joueur
   cell_content.push(align(center)[
-      #text(font: "Impact", font_color, size: taille)[#attendee.name]
+      #block(
+        width:70%,
+        text(font: "Impact", font_color, 2em)[#shrink-to-width(attendee.name)]
+      )
   ])
 
 
   // personnages
-  for (i) in range(6){
+  for (i) in range(attendee.characters.len()){
     cell_content.push(align(center)[#table(rows:1, columns: 2, stroke: none,
       image("assets/dice/d"+str(i+1)+".png", height: 100%),
       image("assets/character_icons/"+attendee.characters.at(i)+".png", height:100%))
       ])
+  }
+
+  // si il manque des personnages on rajoute les lignes manquantes
+  for (i) in range(6-attendee.characters.len()){
+    cell_content.push[]
   }
 
   // saut de ligne a la fin 
@@ -60,3 +59,4 @@
   stroke: 0.5pt,
   ..cell_list
   )
+
