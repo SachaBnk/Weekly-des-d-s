@@ -16,7 +16,14 @@
     ),
     (
         name: "Thao",
-        characters: ()
+        characters: (
+            "steve",
+            "luigi",
+            "terry",
+            "young_link",
+            "incineroar",
+            "little_mac"
+        )
     ),
     (
         name: "Lief",
@@ -31,6 +38,17 @@
             "ganondorf",
             "jigglypuff",
             "diddy_kong",
+            )
+    ),
+    (
+        name: "Shymagrês",
+        characters: (
+            "donkey_kong",
+            "inkling",
+            "king_k_rool",
+            "dr_mario",
+            "kazuya",
+            "robin",
             )
     ),
     (
