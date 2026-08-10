@@ -1,121 +1,189 @@
 #let player_infos = (
     (
-        name: "Kinks",
-        characters: (
-            "zelda",
-            "isabelle",
-            "pac_man",
-            "placeholder",
-            "mii_gunner",
-            "random"
-            )
-    ),
-    (
-        name: "XoRa",
-        characters: (
-            "samus",
-            "corrin",
-            "boWsEr",
-            "placeholder",
-            "mii_swordfighter",
-            "random"
-            )
-    ),
-    (
-        name: "Que Fait Ce C",
-        characters: (
-            "isabelle",
-            "isabelle",
-            "isabelle",
-            "isabelle",
-            "isabelle",
-            "isabelle"
-            )
-    ),
-    (
-        name: "Que Fait Ce Chien Ici ?",
-        characters: (
-            "isabelle",
-            "isabelle",
-            "isabelle",
-            "isabelle",
-            "isabelle",
-            "isabelle"
-            )
-    ),
-    (
-        name: lorem(100),
-        characters: (
-            )
-    ),
-    (
-        name: "Yuto",
-        characters: (
-            "Roy",
-            "pyra_and_mythra",
-            "cloud",
-            "young_link",
-            "palutena",
-            "mr_game_and_watch"
-            )
-    ),
-    (
-        name: "WejdenePower<3",
-        characters: (
-            "mario",
-            "dr_mario",
-            "byleth",
-            "placeholder",
-            "captain_falcon",
-            "richter"
-            ),
-        color: "#FF69B4"
-    ),
-    (
-        name: "",
-        characters: (
-            "dr_mario",
-            "simon",
-            "richter",
-            "donkey_kong",
-            "pikachu",
-            "ganondorf"
-            )
-    ),
-    (
-        name: "I",
-        characters: (
-            "bayonetta",
-            )
-    ),
-    (
-        name: "Marciffouette",
-        characters: (
-            "isabelle",
-            "ice_climbers",
-            "samus",
-            "random",
-            "incineroar",
-            "pichu"
-            )
+        name: "Lero",
+        characters: ()
     ),
     (
         name: "Galgar",
         characters: (
             "incineroar",
             "steve",
-            "little_mac",
-            "dr_mario",
+            "luigi",
             "mii_brawler",
-            "placeholder"
+            "donkey_kong",
+            "isabelle"
+        )
+    ),
+    (
+        name: "Thao",
+        characters: ()
+    ),
+    (
+        name: "Lief",
+        characters: ()
+    ),
+    (
+        name: "Monki",
+        characters: (
+            "link",
+            "donkey_kong",
+            "marth",
+            "ganondorf",
+            "jigglypuff",
+            "diddy_kong",
             )
     ),
     (
-        name: "RebelHeart",
+        name: "Lyvent",
         characters: (
+            "sora",
+            "kirby",
+            "lucas",
+            "pit",
+            "marth",
+            "shulk"
+            )
+    ),
+    (
+        name: "Marciffouette",
+        characters: (
+            "isabelle",
+            "samus",
+            "incineroar",
+            "joker",
+            "marth",
+            "zelda"
+            )
+    ),
+    (
+        name: "XoRa",
+        characters: (
+            "samus",
+            "bowser",
+            "corrin",
+            "yoshi",
+            "wolf",
+            "rosalina_and_luma"
+            )
+    ),
+    (
+        name: "yyna.xyz",
+        characters: (
+            "mega_man",
+            "mega_man",
+            "mega_man",
+            "mega_man",
+            "mega_man",
+            "mega_man",
+            )
+    ),
+    (
+        name: "Raphafou03",
+        characters: (
+            "mii_gunner",
+            "pichu",
+            "bowser",
+            "mii_swordfighter",
+            "mii_brawler",
+            "pikachu",
+            )
+    ),
+    (
+        name: "Boufty",
+        characters: (
+            "palutena",
             "mewtwo",
-            "mewtwo",
-            "mewtwo",
+            "pyra_and_mythra",
+            "mr_game_and_watch",
+            "corrin",
+            "rob",
+            )
+    ),
+    (
+        name: "ILOVESWORDSMEN",
+        characters: (
+            "shulk",
+            "byleth",
+            "ike",
+            "ganondorf",
+            "pyra_and_mythra",
+            "marth",
+            )
+    ),
+    (
+        name: "uwu",
+        characters: (
+            "zelda",
+            "lucas",
+            "kirby",
+            "peach",
+            "toon_link",
+            "pit",
+            )
+    ),
+    (
+        name: "Kinks",
+        characters: (
+            "zelda",
+            "isabelle",
+            "mii_gunner",
+            "little_mac",
+            "dr_mario",
+            "pac_man",
+            )
+    ),
+    (
+        name: "Kornishon",
+        characters: (
+            "wiifit_trainer",
+            )
+    ),
+    (
+        name: "WejdenePower",
+        characters: (
+            "samus",
+            "donkey_kong",
+            "byleth",
+            "mario",
+            "marth",
+            "palutena"
+            )
+    ),
+    (
+        name: "Raphou Patate",
+        characters:(
+            "captain_falcon",
+            "ridley",
+            "sephiroth",
+            "inkling",
+            "mii_brawler",
+            "rosalina_and_luma"
+            )
+    ),
+    
+
+
+
+    (
+        name: "Sexy Girls And Joker",
+        characters: (
+            "zero_suit_samus",
+            "ike",
+            "bayonetta",
+            "joker",
+            "kirby",
+            "zelda",
+            )
+    ),
+    (
+        name: "Flowery",
+        characters: (
+            "sheik",
+            "robin",
+            "mii_gunner",
+            "bayonetta",
+            "yoshi",
+            "pichu",
             )
     ),
 )
