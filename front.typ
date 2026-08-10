@@ -1,18 +1,21 @@
 #import "player_infos.typ" : player_infos
 
-#set page(flipped: true, margin:2em)
+#set page(flipped: true, margin:0em)
 #set page(background: image("assets/bg.png"), fill:black)
 
 #let nb_rows = 2
 #let nb_cols = 5
 
+
+
+
 #let cell_list = ()
-
-
-
-
 #for (attendee) in player_infos{
   let cell_content = ()
+
+  // saut de ligne au début
+  cell_content.push[]
+
   // nom du joueur 
   cell_content.push(align(center)[#text(font: "Impact", white, 2em)[#attendee.name]])
 
@@ -24,12 +27,14 @@
       ])
   }
 
+  // saut de ligne a la fin 
+  cell_content.push[]
+
   cell_list.push(table(
     stroke:none, 
     inset:0pt, 
     rows:(1fr), 
-    columns: (1fr),
-    row-gutter: 5pt, 
+    columns: (1fr), 
     ..cell_content))
 }
 
@@ -40,6 +45,5 @@
   rows: (50%,50%),
   columns: (20%, 20%, 20%, 20%, 20%),
   // stroke: 0.5pt,
-  inset: 2em,
   ..cell_list
   )
