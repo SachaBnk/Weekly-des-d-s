@@ -18,7 +18,15 @@ Le fichier "player_info.typ" contient la liste des joueurs, pour chaque joueur o
 Par exemple si je rentre :
 ```
 #let player_infos = (
-  
+  name: "WejdenePower",
+  characters: (
+    "samus",
+    "donkey_kong",
+    "byleth",
+    "mario",
+    "captain_falcon",
+    "palutena"
+  )
 )
 ```
 
