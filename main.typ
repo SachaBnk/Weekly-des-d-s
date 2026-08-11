@@ -3,23 +3,20 @@
 #import "@preview/one-liner:0.3.0": fit-to-width, shrink-to-width
 
 #set page(flipped: true, margin:0em)
-#set page(background: image("assets/bg.png"), fill:black)
+#set page(background: image("assets/bg_color.png", height: 100%), fill:black)
 
 // #let nb_rows = 2
 // #let nb_cols = 5
 #let font_color = white
 #let logo = image("assets/logo_blanc.png")
+#let color_opacity = 50%
 
 
 
 #let cell_list = ()
 #for (attendee) in player_infos{
-  let cell_content = ()
-  let color_bg = purple
-  if "couleur" in attendee{
-    color_bg = attendee.couleur
-  }
 
+  let cell_content = ()
 
   // saut de ligne au début
   cell_content.push[]
@@ -62,10 +59,10 @@
 
 
   cell_list.push(table(
-    stroke:0pt, 
+    stroke:none, 
     inset:0pt, 
     rows:(1fr), 
-    columns: (1fr), 
+    columns: (1fr),
     ..cell_content))
 }
 

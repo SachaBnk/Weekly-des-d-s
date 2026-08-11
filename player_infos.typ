@@ -1,7 +1,8 @@
 #let player_infos = (
     (
         name: "Lero",
-        characters: ()
+        characters: (),
+        couleur: "#0000FF"
     ),
     (
         name: "Galgar",
@@ -13,7 +14,7 @@
             "donkey_kong",
             "isabelle"
         ),
-        couleur: ""
+        couleur: "#FFFFFF"
     ),
     (
         name: "Thao",
@@ -25,7 +26,7 @@
             "incineroar",
             "little_mac"
         ),
-        couleur: ""
+        couleur: "FFFF00"
     ),
     (
         name: "Lief",
@@ -37,7 +38,7 @@
             "fox",
             "wolf"
         ),
-        couleur: ""
+        couleur: "00FFFF"
     ),
     (
         name: "Monki",
@@ -49,7 +50,7 @@
             "jigglypuff",
             "diddy_kong",
             ),
-        couleur: ""
+        couleur: "00FF00"
     ),
     (
         name: "Shymagrês",
@@ -61,7 +62,7 @@
             "kazuya",
             "robin",
             ),
-        couleur: ""
+        couleur: "FF00FF"
     ),
     (
         name: "Lyvent",
@@ -73,7 +74,7 @@
             "marth",
             "shulk"
             ),
-        couleur: ""
+        couleur: "FF0000"
     ),
     (
         name: "Marciffouette",
@@ -85,7 +86,7 @@
             "marth",
             "zelda"
             ),
-        couleur: ""
+        couleur: "000"
     ),
     (
         name: "XoRa",
