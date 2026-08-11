@@ -23,6 +23,7 @@ Ce script est entièrement réalisé à l'aide du langage [Typst](https://typst.
 <img width="447" height="160" alt="Capture d’écran 2026-08-11 à 23 42 37" src="https://github.com/user-attachments/assets/5772d495-a269-48f0-8c98-3dc6548998a1" />
 
 
+**Vous pouvez désormais rentrer les informations des joueurs :**
 
 Le fichier "player_info.typ" contient la liste des joueurs, pour chaque joueur on doit rentrer son pseudo (```name```), et la liste de ses personnages (```characters```), **c'est donc lui qu'on va modifier**.
 Par exemple si je rentre :
