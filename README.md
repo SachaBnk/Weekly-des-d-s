@@ -27,7 +27,7 @@ Il faut modifier le dictionnaire dans "player_infos.typ" et compiler "main.typ".
 
 ## Utiliser le script
 
-### 1. Avec VSCode :
+### 1. Avec VSCode (ce que je conseille) :
 **Dans un premier temps vous devez installer VS Code :** [ici](https://code.visualstudio.com/Download)
 
 **ensuite on va utiliser les deux extensions suivantes :**
