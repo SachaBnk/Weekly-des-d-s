@@ -163,7 +163,7 @@
             "donkey_kong",
             "byleth",
             "mario",
-            "marth",
+            "captain_falcon",
             "palutena"
             )
     ),
