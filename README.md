@@ -25,7 +25,7 @@ ensuite je conseille d'utiliser les deux extensions suivantes :
 
 
 
-Le fichier "player_info.typ" contient la liste des joueurs, pour chaque joueur on doit rentrer son pseudo (```name```), et la liste de ses personnages (```characters```).
+Le fichier "player_info.typ" contient la liste des joueurs, pour chaque joueur on doit rentrer son pseudo (```name```), et la liste de ses personnages (```characters```), **c'est donc lui qu'on va modifier**.
 Par exemple si je rentre :
 ```
 #let player_infos = (
@@ -53,9 +53,13 @@ Par exemple si je rentre :
   )
 )
 ```
-J'obtiens ces cartes :
+J'obtiendrai ces cartes :
 
 [<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 26 34" src="https://github.com/user-attachments/assets/41222f39-aea7-43f2-a002-3cf761a0b240" />](https://www.supermajor.gg/ultimate/player/Raphou%20Patate?id=S3102098) [<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 23 11" src="https://github.com/user-attachments/assets/46a6f02c-fad0-4e64-ab9f-3c2f93887cce" />](https://www.supermajor.gg/ultimate/player/WejdenePower%3C3?id=S3366421)
+
+Petite astuce : lorsque vous remplissez les informations des joueurs, ouvrez le fichier "main.typ", vous n'avez rien à modifier dans ce fichier, mais si vous appuyez sur cette icone <img width="28" height="29" alt="Capture d’écran 2026-08-11 à 23 53 47" src="https://github.com/user-attachments/assets/d24a6c79-b93a-452a-9e6d-93e43ad8de43" /> en haut à droite de la fenêtre, vous allez avoir un aperçu en temps réel des cartes que vous êtes en train de remplir
+
+
 
 
 
