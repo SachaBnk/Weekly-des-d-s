@@ -8,7 +8,7 @@ Le but de ce projet est donc de générer rapidement des cartes des personnages 
 
 ## Contributeurs :
 
-Ce script a été développé par [Kinks](https://www.supermajor.gg/ultimate/player/Kinks?id=S1930585) (ou [Stékachez](https://www.instagram.com/stekachez/) sur Instagram)
+Ce script a été développé par [Kinks](https://www.supermajor.gg/ultimate/player/Kinks?id=S1930585) (ou [Stékachez](https://www.instagram.com/stekachez/) si vous voulez voir mes potits dessins sur Instagram)
 
 Avec l'aide de :
 - [Yyna](https://yyna.xyz) (ou [suffixe](https://suffixe.yyna.xyz/), allez écouter sa musique)
