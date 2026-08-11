@@ -64,9 +64,9 @@ J'obtiendrai ces cartes :
 **Et voila vous n'avez plus qu'à imprimer "main.pdf" et à le distribuer à vos joueurs**
 
 
-### Sans VS Code
+### 2. Sans VS Code
 
-**Vous devez d'abord installer Typst** : [ici](https://typst.app/open-source/#download) (le plus simple est d'utiliser [homebrew](brew.sh) 
+**Vous devez d'abord installer Typst** : [ici](https://typst.app/open-source/#download) (le plus simple est d'utiliser [homebrew](https://brew.sh))
 
 
 
