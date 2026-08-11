@@ -12,7 +12,7 @@ Ce script a été développé par [Kinks](https://www.supermajor.gg/ultimate/pla
 
 Avec l'aide de :
 - [Yyna](https://yyna.xyz) (ou [suffixe](https://suffixe.yyna.xyz/), allez écouter sa musique)
-- [XoRa](https://www.supermajor.gg/ultimate/player/XoRa?id=S2284011)
+- [XoRa](https://www.supermajor.gg/ultimate/player/XoRa?id=S2284011) (allez voir son système de JDR, [les fragments de la destinée](https://git.uwu-segfault.eu/XoRa-Ki/fdd))
 - ToyHugs
 
 (Gros bisous à la team)
