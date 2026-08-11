@@ -8,4 +8,8 @@ Le but de ce projet est donc de générer rapidement des cartes des personnages 
 
 ## Dépendances 
 
-Ce script est entièrement réalisé à l'aide du langage [Typst](https://typst.app/), ce sera la seule dépendance à installer : [Installer typst](https://typst.app/open-source/#download)
+Ce script est entièrement réalisé à l'aide du langage [Typst](https://typst.app/), je vais présenter une manière de compiler le pdf final qui utilise le logiciel [VS Code](https://code.visualstudio.com/) (plus agréable à utiliser, et vous devrez dans tous les cas utiliser un éditeur de texte pour modifier le rendu final) et une qui utilise le terminal de commande (rien de compliqué mais peut faire peur si on n'est pas habitué)
+
+## Utiliser le script
+
+### 1. Entrer les informations des participants dans le fichier "player_infos.typ"
