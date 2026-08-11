@@ -1,6 +1,6 @@
 # Weekly-des-dés
 
-Ce projet a pour but d'être utilisé par l'association [Smash Association Loire Touraine](https://discord.gg/7A487aVQpF) (SALT) lors des weeklies des dés. La weekly des dés est une idée de [Lero](https://www.supermajor.gg/ultimate/player/Lero?id=S2464181) : au début de l'évènement on choisit six personnages, et on les associe chacun à un nombre entre 1 et 6. Au début de chaque match, le dé choisit quels personnages sont joués.
+Ce projet a pour but d'être utilisé par l'association [Smash Association Loire Touraine](https://discord.gg/7A487aVQpF) (SALT) lors des weeklies des dés. La weekly des dés est une idée de [Lero](https://x.com/leror0) : au début de l'évènement on choisit six personnages, et on les associe chacun à un nombre entre 1 et 6. Au début de chaque match, le dé choisit quels personnages sont joués.
 
 Le but de ce projet est donc de générer rapidement des cartes des personnages à imprimer pour tous les joueurs.
 
@@ -13,3 +13,12 @@ Ce script est entièrement réalisé à l'aide du langage [Typst](https://typst.
 ## Utiliser le script
 
 ### 1. Entrer les informations des participants dans le fichier "player_infos.typ"
+
+Le fichier "player_info.typ" contient la liste des joueurs, pour chaque joueur on doit rentrer son pseudo (```name```), et la liste de ses personnages (```characters```).
+Par exemple si je rentre :
+```
+#let player_infos = (
+  
+)
+```
+
