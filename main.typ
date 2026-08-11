@@ -15,6 +15,10 @@
 #let cell_list = ()
 #for (attendee) in player_infos{
   let cell_content = ()
+  let color_bg = purple
+  if "couleur" in attendee{
+    color_bg = attendee.couleur
+  }
 
 
   // saut de ligne au début

@@ -12,7 +12,8 @@
             "mii_brawler",
             "donkey_kong",
             "isabelle"
-        )
+        ),
+        couleur: ""
     ),
     (
         name: "Thao",
@@ -23,7 +24,8 @@
             "young_link",
             "incineroar",
             "little_mac"
-        )
+        ),
+        couleur: ""
     ),
     (
         name: "Lief",
@@ -34,7 +36,8 @@
             "sheik",
             "fox",
             "wolf"
-        )
+        ),
+        couleur: ""
     ),
     (
         name: "Monki",
@@ -45,7 +48,8 @@
             "ganondorf",
             "jigglypuff",
             "diddy_kong",
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "Shymagrês",
@@ -56,7 +60,8 @@
             "dr_mario",
             "kazuya",
             "robin",
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "Lyvent",
@@ -67,7 +72,8 @@
             "pit",
             "marth",
             "shulk"
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "Marciffouette",
@@ -78,7 +84,8 @@
             "joker",
             "marth",
             "zelda"
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "XoRa",
@@ -89,7 +96,8 @@
             "yoshi",
             "wolf",
             "rosalina_and_luma"
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "yyna.xyz",
@@ -100,7 +108,8 @@
             "mega_man",
             "mega_man",
             "mega_man",
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "Raphafou03",
@@ -111,7 +120,8 @@
             "mii_swordfighter",
             "mii_brawler",
             "pikachu",
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "Boufty",
@@ -122,7 +132,8 @@
             "mr_game_and_watch",
             "corrin",
             "rob",
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "ILOVESWORDSMEN",
@@ -133,7 +144,8 @@
             "ganondorf",
             "pyra_and_mythra",
             "marth",
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "uwu",
@@ -144,7 +156,8 @@
             "peach",
             "toon_link",
             "pit",
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "Kinks",
@@ -155,13 +168,15 @@
             "little_mac",
             "dr_mario",
             "pac_man",
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "Kornishon",
         characters: (
             "wiifit_trainer",
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "WejdenePower",
@@ -172,7 +187,8 @@
             "mario",
             "captain_falcon",
             "palutena"
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "Raphou Patate",
@@ -183,13 +199,15 @@
             "inkling",
             "mii_brawler",
             "rosalina_and_luma"
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "Naïlec",
         characters: (
             "kirby",
-            )
+            ),
+        couleur: ""
     ),
     (
         name: "Sexy Girls And Joker",
@@ -200,6 +218,7 @@
             "joker",
             "kirby",
             "zelda",
-            )
+            ),
+
     ),
 )

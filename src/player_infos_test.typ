@@ -8,7 +8,8 @@
   "bowser",
   "bowser_jr",
   "byleth",
-    )
+    ),
+    couleur: "" 
   ),
   (
     name: "test",
@@ -19,7 +20,8 @@
   "corrin",
   "daisy",
   "dark_pit",
-    )
+    ),
+    couleur: "" 
   ),
   (
     name: "test",
@@ -30,7 +32,8 @@
   "dr_mario",
   "duck_hunt",
   "falco",
-    )
+    ),
+    couleur: "" 
   ),(
     name: "test",
     characters: (
@@ -40,7 +43,8 @@
   "hero",
   "ice_climbers",
   "ike",
-    )
+    ),
+    couleur: "" 
   ),(
     name: "test",
     characters: (
@@ -50,7 +54,8 @@
   "jigglypuff",
   "joker",
   "kazuya",
-    )
+    ),
+    couleur: "" 
   ),(
     name: "test",
     characters: (
@@ -60,7 +65,8 @@
   "kirby",
   "link",
   "little_mac",
-    )
+    ),
+    couleur: "" 
   ),(
     name: "test",
     characters: (
@@ -70,7 +76,8 @@
   "luigi",
   "mario",
   "marth",
-    )
+    ),
+    couleur: "" 
   ),(
     name: "test",
     characters: (
@@ -80,7 +87,8 @@
   "mii_brawler",
   "mii_gunner",
   "mii_swordfighter",
-    )
+    ),
+    couleur: "" 
   ),(
     name: "test",
     characters: (
@@ -90,7 +98,8 @@
   "olimar",
   "pac_man",
   "palutena",
-    )
+    ),
+    couleur: "" 
   ),(
     name: "test",
     characters: (
@@ -100,7 +109,8 @@
   "piranha_plant",
   "pit",
   "pokemon_trainer",
-    )
+    ),
+    couleur: "" 
   ),(
     name: "test",
     characters: (
@@ -110,7 +120,8 @@
   "rob",
   "robin",
   "rosalina_and_luma",
-    )
+    ),
+    couleur: "" 
   ),(
     name: "test",
     characters: (
@@ -120,7 +131,8 @@
   "sephiroth",
   "sheik",
   "shulk",
-    )
+    ),
+    couleur: "" 
   ),(
     name: "test",
     characters: (
@@ -130,7 +142,8 @@
   "sora",
   "steve",
   "terry",
-    )
+    ),
+    couleur: "" 
   ),(
     name: "test",
     characters: (
@@ -140,7 +153,8 @@
   "wiifit_trainer",
   "wolf",
   "yoshi",
-    )
+    ),
+    couleur: "" 
   ),(
     name: "test",
     characters: (
@@ -148,6 +162,7 @@
   "zelda",
   "zero_suit_samus",
   "random"
-    )
+    ),
+    couleur: "" 
   ),
 )
