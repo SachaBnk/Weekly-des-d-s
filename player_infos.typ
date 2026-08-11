@@ -27,7 +27,14 @@
     ),
     (
         name: "Lief",
-        characters: ()
+        characters: (
+            "dr_mario",
+            "mega_man",
+            "diddy_kong",
+            "sheik",
+            "fox",
+            "wolf"
+        )
     ),
     (
         name: "Monki",
