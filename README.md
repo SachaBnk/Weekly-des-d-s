@@ -22,6 +22,9 @@ Avec l'aide de :
 
 Ce script est entièrement réalisé à l'aide du langage [Typst](https://typst.app/), par la suite je vais présenter une manière de compiler le pdf final qui utilise le logiciel [VS Code](https://code.visualstudio.com/) (plus agréable à utiliser, et vous devrez dans tous les cas utiliser un éditeur de texte pour modifier le rendu final) et une qui utilise le terminal de commande (rien de compliqué mais peut faire peur si on n'est pas habitué)
 
+## TL;DR (pour les gens qui savent utiliser typst) :
+Il faut modifier le dictionnaire dans "player_infos.typ" et compiler "main.typ".
+
 ## Utiliser le script
 
 ### 1. Avec VSCode :
