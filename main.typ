@@ -1,4 +1,5 @@
 #import "player_infos.typ" : player_infos
+#import "src/characters_index.typ" : characters_index
 #import "@preview/one-liner:0.3.0": fit-to-width, shrink-to-width
 
 #set page(flipped: true, margin:0em)
@@ -30,10 +31,17 @@
 
   // personnages
   for (i) in range(attendee.characters.len()){
+    let icon = ""
+    if attendee.characters.at(i) in characters_index{
+      icon = image("assets/character_icons/"+attendee.characters.at(i)+".png", height:100%)
+    }
+    else{
+      icon = image("assets/character_icons/placeholder.png", height:100%)
+    }
     cell_content.push(align(center)[#table(rows:1, columns: 2, stroke: none,
       image("assets/dice/d"+str(i+1)+".png", height: 100%),
-      image("assets/character_icons/"+attendee.characters.at(i)+".png", height:100%))
-      ])
+      icon
+    )])
   }
 
   // si il manque des personnages on rajoute les lignes manquantes

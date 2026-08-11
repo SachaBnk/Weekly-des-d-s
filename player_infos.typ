@@ -185,10 +185,12 @@
             "rosalina_and_luma"
             )
     ),
-    
-
-
-
+    (
+        name: "Naïlec",
+        characters: (
+            "kirby",
+            )
+    ),
     (
         name: "Sexy Girls And Joker",
         characters: (
@@ -198,17 +200,6 @@
             "joker",
             "kirby",
             "zelda",
-            )
-    ),
-    (
-        name: "Flowery",
-        characters: (
-            "sheik",
-            "robin",
-            "mii_gunner",
-            "bayonetta",
-            "yoshi",
-            "pichu",
             )
     ),
 )
