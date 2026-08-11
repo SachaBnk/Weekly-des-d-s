@@ -14,7 +14,7 @@ Avec l'aide de :
 - [Yyna](https://yyna.xyz) (ou [suffixe](https://suffixe.yyna.xyz/), allez écouter sa musique)
 - [XoRa](https://www.supermajor.gg/ultimate/player/XoRa?id=S2284011) (allez voir son système de JDR, [les fragments de la destinée](https://git.uwu-segfault.eu/XoRa-Ki/fdd))
 - ToyHugs
-- Tous ceux qui ont gentiment accepté d'apparaitre comme exemples tout au long de ce document <3 (retrouvez les sur le [discord de l'asso](https://discord.gg/7A487aVQpF)) 
+- Tous ceux qui ont gentiment accepté d'apparaitre comme exemples tout au long de ce document <3 (retrouvez les sur le [discord de l'asso](https://discord.gg/7A487aVQpF), et un petit peu sur le [discord de smash lorraine](https://discord.gg/aKzjdFHyzx) aussi) 
 
 (Gros bisous à la team)
 
