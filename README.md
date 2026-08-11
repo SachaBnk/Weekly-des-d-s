@@ -86,7 +86,7 @@ J'obtiendrai ces cartes :
 typst compile ./main.typ
 ```
 
-### Sans VSCode, sur Windows :
+### 3. Sans VSCode, sur Windows :
 
 Vous pouvez exporter ce dossier sur la [web app de typst](https://typst.app/play/)
 
