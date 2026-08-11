@@ -64,9 +64,40 @@ J'obtiendrai ces cartes :
 **Et voila vous n'avez plus qu'à imprimer "main.pdf" et à le distribuer à vos joueurs**
 
 
-### 2. Sans VS Code
+### 2. Sans VS Code, sur MacOS et Linux : 
 
 **Vous devez d'abord installer Typst** : [ici](https://typst.app/open-source/#download) (le plus simple est d'utiliser [homebrew](https://brew.sh))
+
+**Comme dans l'étape 1. modifiez le fichier "player_infos.typ"**
+
+**Enfin quand votre fichier est pret a etre compilé :** ouvrez un terminal à l'emplacement de "main.typ" et tapez cette commande :
+```
+typst compile ./main.typ
+```
+
+### Sans VSCode, sur Windows :
+
+Vous pouvez exporter ce dossier sur la [web app de typst](https://typst.app/play/)
+
+
+## Dernière remarque importante :
+Si vous voyez cette icône apparaitre à la place de l’icône d'un personnage :
+
+<img width="128" height="128" alt="placeholder" src="https://github.com/user-attachments/assets/a4980b11-2a67-4d71-92d3-afb1796c5dad" />
+
+C'est que le nom que vous avez rentré pour ce personnage est erroné
+
+(par exemple vous avez rentré ```mr_gameandwatch```au lieu de ```mr_game_and_watch```)
+
+Pour etre sur de la bonne orthographe, vous pouvez regarder dans le dossier "assets/character_icons/", les noms des personnages doivent être les mêmes que les noms des icones auxquelles ils sont associés.
+
+(Par exemple ici je vois que l'icone s'appelle "mr_game_and_watch.png" :
+
+<img width="129" height="118" alt="Capture d’écran 2026-08-12 à 00 20 31" src="https://github.com/user-attachments/assets/a0e53668-c9f9-4b95-85a5-6d13db091ba6" />
+
+je sais donc qu'il faudra rentrer "mr_game_and_watch" dans "player_infos")
+
+
 
 
 
