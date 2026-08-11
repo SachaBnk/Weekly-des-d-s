@@ -110,7 +110,7 @@ Pour etre sur de la bonne orthographe, vous pouvez regarder dans le dossier "ass
 
 <img width="129" height="118" alt="Capture d’écran 2026-08-12 à 00 20 31" src="https://github.com/user-attachments/assets/a0e53668-c9f9-4b95-85a5-6d13db091ba6" />
 
-je sais donc qu'il faudra rentrer "mr_game_and_watch" dans "player_infos")
+je sais donc qu'il faudra rentrer "mr_game_and_watch" dans "player_infos.typ")
 
 ### À la fin vous devriez obtenir une planche qui ressemble à ça :
 
