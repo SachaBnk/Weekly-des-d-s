@@ -8,7 +8,7 @@ Le but de ce projet est donc de générer rapidement des cartes des personnages 
 
 ## Dépendances 
 
-Ce script est entièrement réalisé à l'aide du langage [Typst](https://typst.app/), je vais présenter une manière de compiler le pdf final qui utilise le logiciel [VS Code](https://code.visualstudio.com/) (plus agréable à utiliser, et vous devrez dans tous les cas utiliser un éditeur de texte pour modifier le rendu final) et une qui utilise le terminal de commande (rien de compliqué mais peut faire peur si on n'est pas habitué)
+Ce script est entièrement réalisé à l'aide du langage [Typst](https://typst.app/), par la suite je vais présenter une manière de compiler le pdf final qui utilise le logiciel [VS Code](https://code.visualstudio.com/) (plus agréable à utiliser, et vous devrez dans tous les cas utiliser un éditeur de texte pour modifier le rendu final) et une qui utilise le terminal de commande (rien de compliqué mais peut faire peur si on n'est pas habitué)
 
 ## Utiliser le script
 
@@ -19,17 +19,6 @@ Par exemple si je rentre :
 ```
 #let player_infos = (
   (
-    name: "WejdenePower",
-    characters: (
-      "samus",
-      "donkey_kong",
-      "byleth",
-      "mario",
-      "captain_falcon",
-      "palutena"
-    )  
-  ),
-  (
     name: "Raphou Patate",
     characters:(
       "captain_falcon",
@@ -39,12 +28,23 @@ Par exemple si je rentre :
       "mii_brawler",
       "rosalina_and_luma"
     )
+  ),
+  (
+    name: "WejdenePower",
+    characters: (
+      "samus",
+      "donkey_kong",
+      "byleth",
+      "mario",
+      "captain_falcon",
+      "palutena"
+    )  
   )
 )
 ```
 Vous obtenez ces cartes :
 
-[<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 23 11" src="https://github.com/user-attachments/assets/46a6f02c-fad0-4e64-ab9f-3c2f93887cce" />](https://www.supermajor.gg/ultimate/player/WejdenePower%3C3?id=S3366421) [<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 26 34" src="https://github.com/user-attachments/assets/41222f39-aea7-43f2-a002-3cf761a0b240" />](https://www.supermajor.gg/ultimate/player/Raphou%20Patate?id=S3102098)
+[<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 26 34" src="https://github.com/user-attachments/assets/41222f39-aea7-43f2-a002-3cf761a0b240" />](https://www.supermajor.gg/ultimate/player/Raphou%20Patate?id=S3102098) [<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 23 11" src="https://github.com/user-attachments/assets/46a6f02c-fad0-4e64-ab9f-3c2f93887cce" />](https://www.supermajor.gg/ultimate/player/WejdenePower%3C3?id=S3366421)
 
 
 
