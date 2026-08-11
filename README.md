@@ -19,6 +19,7 @@ Dans un premier temps vous devez installer VS Code : [ici](https://code.visualst
 ensuite je conseille d'utiliser les deux extensions suivantes : 
 - Tinymist (permet d'afficher un aperçu du rendu final en temps réel)
 <img width="533" height="160" alt="Capture d’écran 2026-08-11 à 23 42 49" src="https://github.com/user-attachments/assets/9bf29d2c-f542-4cf2-bd62-69b3ce4ce44a" />
+
 - Typst Basic (permet d'exporter le fichier pdf à la fin)
 <img width="447" height="160" alt="Capture d’écran 2026-08-11 à 23 42 37" src="https://github.com/user-attachments/assets/5772d495-a269-48f0-8c98-3dc6548998a1" />
 
