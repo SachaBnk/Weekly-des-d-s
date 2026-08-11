@@ -16,6 +16,14 @@ Ce script est entièrement réalisé à l'aide du langage [Typst](https://typst.
 
 Dans un premier temps vous devez installer VS Code : [ici](https://code.visualstudio.com/Download)
 
+ensuite je conseille d'utiliser les deux extensions suivantes : 
+- Tinymist (permet d'afficher un aperçu du rendu final en temps réel)
+<img width="533" height="160" alt="Capture d’écran 2026-08-11 à 23 42 49" src="https://github.com/user-attachments/assets/9bf29d2c-f542-4cf2-bd62-69b3ce4ce44a" />
+- Typst Basic (permet d'exporter le fichier pdf à la fin)
+<img width="447" height="160" alt="Capture d’écran 2026-08-11 à 23 42 37" src="https://github.com/user-attachments/assets/5772d495-a269-48f0-8c98-3dc6548998a1" />
+
+
+
 Le fichier "player_info.typ" contient la liste des joueurs, pour chaque joueur on doit rentrer son pseudo (```name```), et la liste de ses personnages (```characters```).
 Par exemple si je rentre :
 ```
@@ -44,13 +52,11 @@ Par exemple si je rentre :
   )
 )
 ```
-Vous obtenez ces cartes :
+J'obtiens ces cartes :
 
 [<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 26 34" src="https://github.com/user-attachments/assets/41222f39-aea7-43f2-a002-3cf761a0b240" />](https://www.supermajor.gg/ultimate/player/Raphou%20Patate?id=S3102098) [<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 23 11" src="https://github.com/user-attachments/assets/46a6f02c-fad0-4e64-ab9f-3c2f93887cce" />](https://www.supermajor.gg/ultimate/player/WejdenePower%3C3?id=S3366421)
 
-### 2. Une fois que les informations sont rentrées, il faut "compiler" le fichier
 
-La compilation c'est l'étape qui consiste à transformer ce texte barbare en un joli document PDF
 
 
 
