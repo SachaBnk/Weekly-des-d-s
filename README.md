@@ -59,8 +59,14 @@ J'obtiendrai ces cartes :
 
 **Petite astuce :** lorsque vous remplissez les informations des joueurs, ouvrez le fichier "main.typ", vous n'avez rien à modifier dans ce fichier, mais si vous appuyez sur cette icone <img width="28" height="29" alt="Capture d’écran 2026-08-11 à 23 53 47" src="https://github.com/user-attachments/assets/d24a6c79-b93a-452a-9e6d-93e43ad8de43" /> en haut à droite de la fenêtre, vous allez avoir un aperçu en temps réel des cartes que vous êtes en train de remplir
 
-**des que vous avez fini de remplir les informations des joueurs :** retournez dans "main.typ", l'icone <img width="28" height="29" alt="Capture d’écran 2026-08-11 à 23 56 50" src="https://github.com/user-attachments/assets/5a30dff9-6ee6-402e-9a1e-91778bdfbd9c" /> vous permettra de générer le PDF final (il sera enregistré dans le dossier dans le même dossier que "main.typ")
+**Dès que vous avez fini de remplir les informations des joueurs :** retournez dans "main.typ", l'icone <img width="28" height="29" alt="Capture d’écran 2026-08-11 à 23 56 50" src="https://github.com/user-attachments/assets/5a30dff9-6ee6-402e-9a1e-91778bdfbd9c" /> vous permettra de générer le PDF final (il sera enregistré dans le dossier dans le même dossier que "main.typ")
 
+**Et voila vous n'avez plus qu'à imprimer "main.pdf" et à le distribuer à vos joueurs**
+
+
+### Sans VS Code
+
+**Vous devez d'abord installer Typst** : [ici](https://typst.app/open-source/#download) (le plus simple est d'utiliser [homebrew](brew.sh) 
 
 
 
