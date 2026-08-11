@@ -111,5 +111,6 @@ je sais donc qu'il faudra rentrer "mr_game_and_watch" dans "player_infos")
 ### À la fin vous devriez obtenir une planche qui ressemble à ça :
 
 [exemple.pdf](https://github.com/user-attachments/files/30960652/exemple.pdf)
+<img width="569" height="807" alt="Capture d’écran 2026-08-12 à 00 31 53" src="https://github.com/user-attachments/assets/0a73b5ee-6e99-433e-8d5c-1aaa17c2f801" />
 
 Vous n'avez plus qu'à découper les cartes et à les distribuer a vos joueurs !
