@@ -13,10 +13,10 @@ Ce script est entièrement réalisé à l'aide du langage [Typst](https://typst.
 ## Utiliser le script
 
 ### 1. Avec VSCode :
+**
+Dans un premier temps vous devez installer VS Code :** [ici](https://code.visualstudio.com/Download)
 
-Dans un premier temps vous devez installer VS Code : [ici](https://code.visualstudio.com/Download)
-
-ensuite je conseille d'utiliser les deux extensions suivantes : 
+**ensuite on va utiliser les deux extensions suivantes : **
 - Tinymist (permet d'afficher un aperçu du rendu final en temps réel)
 <img width="533" height="160" alt="Capture d’écran 2026-08-11 à 23 42 49" src="https://github.com/user-attachments/assets/9bf29d2c-f542-4cf2-bd62-69b3ce4ce44a" />
 
@@ -57,7 +57,7 @@ J'obtiendrai ces cartes :
 
 [<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 26 34" src="https://github.com/user-attachments/assets/41222f39-aea7-43f2-a002-3cf761a0b240" />](https://www.supermajor.gg/ultimate/player/Raphou%20Patate?id=S3102098) [<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 23 11" src="https://github.com/user-attachments/assets/46a6f02c-fad0-4e64-ab9f-3c2f93887cce" />](https://www.supermajor.gg/ultimate/player/WejdenePower%3C3?id=S3366421)
 
-Petite astuce : lorsque vous remplissez les informations des joueurs, ouvrez le fichier "main.typ", vous n'avez rien à modifier dans ce fichier, mais si vous appuyez sur cette icone <img width="28" height="29" alt="Capture d’écran 2026-08-11 à 23 53 47" src="https://github.com/user-attachments/assets/d24a6c79-b93a-452a-9e6d-93e43ad8de43" /> en haut à droite de la fenêtre, vous allez avoir un aperçu en temps réel des cartes que vous êtes en train de remplir
+**Petite astuce :** lorsque vous remplissez les informations des joueurs, ouvrez le fichier "main.typ", vous n'avez rien à modifier dans ce fichier, mais si vous appuyez sur cette icone <img width="28" height="29" alt="Capture d’écran 2026-08-11 à 23 53 47" src="https://github.com/user-attachments/assets/d24a6c79-b93a-452a-9e6d-93e43ad8de43" /> en haut à droite de la fenêtre, vous allez avoir un aperçu en temps réel des cartes que vous êtes en train de remplir
 
 **des que vous avez fini de remplir les informations des joueurs :** retournez dans "main.typ", l'icone <img width="28" height="29" alt="Capture d’écran 2026-08-11 à 23 56 50" src="https://github.com/user-attachments/assets/5a30dff9-6ee6-402e-9a1e-91778bdfbd9c" /> vous permettra de générer le PDF final (il sera enregistré dans le dossier dans le même dossier que "main.typ")
 
