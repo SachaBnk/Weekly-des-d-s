@@ -29,4 +29,7 @@ Par exemple si je rentre :
   )
 )
 ```
+Vous obtenez cette carte :
+[<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 23 11" src="https://github.com/user-attachments/assets/46a6f02c-fad0-4e64-ab9f-3c2f93887cce" />](https://www.supermajor.gg/ultimate/player/WejdenePower%3C3?id=S3366421)
+
 
