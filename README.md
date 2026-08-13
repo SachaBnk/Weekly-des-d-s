@@ -12,7 +12,7 @@ Aucune IA générative (ChatGPT, Copilot, etc) n'a été utilisée lors de la co
 
 **Pour remplir "player_infos.typ" :** Pas besoin de chat gpt ça prend 20 minutes max respectez-vous, respectez-moi.
 
-**Si vous voulez changer les assets : ** (logo, image de fond, etc)  
+**Si vous voulez changer les assets :** (logo, image de fond, etc)  
 Ne générez pas d'images par IA, à la place dessinez un fond vous même ça sera infiniment mieux.  
 Si vraiment vous voulez un design chouette et que vous n'avez pas d'artiste dans votre entourage qui serait prêt à le faire, **payez-en un**
 
