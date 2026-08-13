@@ -20,6 +20,9 @@ Si vraiment vous voulez un design chouette et que vous n'avez pas d'artiste dans
 En particulier, j'emmerde TOUTES les IA génératives  !
 Voila bisous bonne lecture <3
 
+<img width="150" height="276" alt="image" src="https://github.com/user-attachments/assets/12659a66-56bf-4ddd-b50a-882923bd2a2c" />
+
+
 **Tout de suite, la suite du readme**
 
 ## Contributeurs :
