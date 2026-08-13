@@ -81,12 +81,16 @@ Par exemple si je rentre :
       "captain_falcon",
       "palutena"
     )  
-  )
-)
+  ),
+  (
+    name: "yuto"
+    characters:(
+
+etc
 ```
 J'obtiendrai ces cartes :
 
-[<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 26 34" src="https://github.com/user-attachments/assets/41222f39-aea7-43f2-a002-3cf761a0b240" />](https://www.supermajor.gg/ultimate/player/Raphou%20Patate?id=S3102098) [<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 23 11" src="https://github.com/user-attachments/assets/46a6f02c-fad0-4e64-ab9f-3c2f93887cce" />](https://www.supermajor.gg/ultimate/player/WejdenePower%3C3?id=S3366421)
+[<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 26 34" src="https://github.com/user-attachments/assets/41222f39-aea7-43f2-a002-3cf761a0b240" />](https://www.supermajor.gg/ultimate/player/Raphou%20Patate?id=S3102098) [<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 23 11" src="https://github.com/user-attachments/assets/46a6f02c-fad0-4e64-ab9f-3c2f93887cce" />](https://www.supermajor.gg/ultimate/player/WejdenePower%3C3?id=S3366421)[https://cdn.discordapp.com/attachments/1537479752397488138/1537489839950266448/Capture_decran_2026-08-13_a_17.55.30.png?ex=6a7f3a7f&is=6a7de8ff&hm=10f5cff0177480595284d94d284fbc8361617e002a306f3b9d96ebef9933381f&](https://www.supermajor.gg/ultimate/player/Yuto?id=S3164323)
 
 **Petite astuce :** lorsque vous remplissez les informations des joueurs, ouvrez le fichier "main.typ", vous n'avez rien à modifier dans ce fichier, mais si vous appuyez sur cette icone "<img width="28" height="29" alt="Capture d’écran 2026-08-11 à 23 53 47" src="https://github.com/user-attachments/assets/d24a6c79-b93a-452a-9e6d-93e43ad8de43" />" en haut à droite de la fenêtre, vous allez avoir un aperçu en temps réel des cartes que vous êtes en train de remplir
 
@@ -128,8 +132,8 @@ je sais donc qu'il faudra rentrer "mr_game_and_watch" dans "player_infos.typ")
 
 ### À la fin vous devriez obtenir une planche qui ressemble à ça :
 
-[exemple.pdf](https://github.com/user-attachments/files/30960652/exemple.pdf)
+[exemple.pdf](assets/exemple.pdf)
 
-<img width="569" height="807" alt="Capture d’écran 2026-08-12 à 00 31 53" src="https://github.com/user-attachments/assets/0a73b5ee-6e99-433e-8d5c-1aaa17c2f801" />
+<img width="352" height="635" alt="Capture d’écran 2026-08-13 à 18 00 54" src="https://github.com/user-attachments/assets/1d788e32-974a-4b66-acc0-9005708ddca5" />
 
 Vous n'avez plus qu'à découper les cartes et à les distribuer a vos joueurs !
