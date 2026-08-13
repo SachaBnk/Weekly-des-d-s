@@ -6,6 +6,22 @@ Le but de ce projet est donc de générer rapidement des cartes des personnages 
 
 [<img width="138" height="246" alt="Capture d’écran 2026-08-11 à 23 12 19" src="https://github.com/user-attachments/assets/ddfd83c6-9452-4102-aec3-84fb07b65848" />](https://www.supermajor.gg/ultimate/player/Lero?id=S2464181) [<img width="140" height="246" alt="Capture d’écran 2026-08-11 à 21 29 07" src="https://github.com/user-attachments/assets/04452224-e6a9-46c3-bc10-d07e19420108" />](https://www.supermajor.gg/ultimate/player/Thao?id=S4568057) [<img width="140" height="246" alt="Capture d’écran 2026-08-11 à 21 28 43" src="https://github.com/user-attachments/assets/6a5ac574-d478-423d-84c5-34c91a188169" />](https://www.supermajor.gg/ultimate/player/Galgar?id=S3259966) [<img width="140" height="246" alt="Capture d’écran 2026-08-11 à 21 29 46" src="https://github.com/user-attachments/assets/d6e73fd4-9b0c-4675-92f1-45a9c92ebade" />](https://www.supermajor.gg/ultimate/player/Monki?id=S3228975) [<img width="140" height="246" alt="Capture d’écran 2026-08-11 à 21 30 34" src="https://github.com/user-attachments/assets/dcc8c4ed-e351-4b69-89c0-31924ff2d73b" />](https://www.supermajor.gg/ultimate/player/Lief?id=S551722)
 
+## Et maintenant, un message du développeur :
+
+Aucune IA générative (ChatGPT, Copilot, etc) n'a été utilisée lors de la conception de ce projet, si vous comptez utiliser ce script pour générer des cartes je vous invite à ne pas utiliser d'IA non plus :
+
+**Pour remplir "player_infos.typ" :** Pas besoin de chat gpt ça prend 20 minutes max respectez-vous, respectez-moi.
+
+**Si vous voulez changer les assets : ** (logo, image de fond, etc)  
+Ne générez pas d'images par IA, à la place dessinez un fond vous même ça sera infiniment mieux.  
+Si vraiment vous voulez un design chouette et que vous n'avez pas d'artiste dans votre entourage qui serait prêt à le faire, **payez-en un**
+
+**Je politise ce repo j'emmerde l'extrême droite, j'emmerde le gouvernement français, j'emmerde le gouvernement états-unien euh... j'emmerde tous les fachos, j'emmerde le RN, Éric Zemmour et tout ce qu'il y a autour !**  
+En particulier, j'emmerde TOUTES les IA génératives  !
+Voila bisous bonne lecture <3
+
+**Tout de suite, la suite du readme**
+
 ## Contributeurs :
 
 Ce script a été développé par [Kinks](https://www.supermajor.gg/ultimate/player/Kinks?id=S1930585) (ou [Stékachez](https://www.instagram.com/stekachez/) si vous voulez voir mes pôtits dessins sur Instagram)
