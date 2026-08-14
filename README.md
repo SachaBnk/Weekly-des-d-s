@@ -17,7 +17,7 @@ Ne générez pas d'images par IA, à la place dessinez un fond vous même ça se
 Si vraiment vous voulez un design chouette et que vous n'avez pas d'artiste dans votre entourage qui serait prêt à le faire, **payez-en un**
 
 **Je politise ce repo j'emmerde l'extrême droite, j'emmerde le gouvernement français, j'emmerde le gouvernement états-unien euh... j'emmerde tous les fachos, j'emmerde le RN, Éric Zemmour et tout ce qu'il y a autour !**  
-En particulier, j'emmerde TOUTES les IA génératives  !
+En particulier, j'emmerde les IA génératives  !
 Voila bisous bonne lecture <3
 
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/12659a66-56bf-4ddd-b50a-882923bd2a2c" />
